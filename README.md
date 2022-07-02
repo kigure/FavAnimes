@@ -28,4 +28,6 @@ FavAnimesは世界中の人達のお気に入りアニメが閲覧できるレ�
 - IDE：Cloud9
 
 ## 使用素材
-- 著作権に配慮する為に外部のAPI(https://developers.annict.com/docs/rest-api/v1)　　を利用しております。
+- 著作権に配慮する為に外部のAPIを利用しております。
+## 外部API Annict API
+- https://developers.annict.com/docs/rest-api/v1
