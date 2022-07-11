@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+/*body{*/
+    /*background-image: image-url("hoge.jpg");*/
+  /*}*/
+  /*↑背景画像の設定方法詳しくはカリキュラムのデプロイを学ぼう1章を見る*/
